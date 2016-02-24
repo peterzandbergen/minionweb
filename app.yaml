@@ -1,4 +1,4 @@
-application: helloworld
+application: minionweb-1234
 version: 1
 runtime: go
 api_version: go1
